@@ -1,0 +1,9 @@
+O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB. 
+
+Para exemplo, utilizaremos o seguinte projeto que realiza Transfer Learning com o Dataset do MNIST:
+
+transfer-learning.ipynb 
+Para exemplo, utilizaremos o seguinte projeto que realiza Transfer Learning com o Dataset do MNIST. 
+
+cats_vs_dogs
+Dataset utilizado que engloba duas classes: gatos e cachorros. Uma descrição da base de dados pode ser visualizada neste link acima.
